@@ -10,6 +10,8 @@ namespace GitTestConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Toto is cool !");
+            Console.Read();
         }
     }
 }
