@@ -11,6 +11,7 @@ namespace GitTestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Toto is cool !");
+            Console.WriteLine("But I like Tata better !");
             Console.Read();
         }
     }
